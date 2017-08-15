@@ -8,10 +8,10 @@
 
 ### Irrigation Management Assistant Application
 * Inputs to the Irrigation Management Assistant (IMA)
-** Farm Field / Crop Planting Setup
-** Daily Scheduling
-** Resource Monitoring
-** Data Model
+  * Farm Field / Crop Planting Setup
+  * Daily Scheduling
+  * Resource Monitoring
+  * Data Model
 
 Demo
 
