@@ -1,11 +1,12 @@
 ### Conservation Irrigation Water Management Using FOSS4G - Season 2
 ---
-### Overview
+### Overview
+<br><br>
 #### Project Background & Irrigation Scheduling
 * Irrigation & Conservation
 * Irrigation scheduling
 * Monitoring Conservation Indicators
-
+<br><br>
 #### Irrigation Management Assistant Application
 * Inputs to the Irrigation Management Assistant (IMA)
   * Farm Field / Crop Planting Setup
